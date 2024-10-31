@@ -7,7 +7,7 @@ import java.util.*;
  * => use int as datatype for n values 
  * as multiplying odd with 3 might exceed the int limit. 
  */
-class Weird_algorithm {
+public class WeirdAlgorithm {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextInt();

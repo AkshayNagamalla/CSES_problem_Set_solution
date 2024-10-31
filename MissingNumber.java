@@ -3,7 +3,7 @@ import java.util.*;
 /*
  * link : https://cses.fi/problemset/task/1083/
  */
-public class Missing_number {
+public class MissingNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         long n = sc.nextInt();
