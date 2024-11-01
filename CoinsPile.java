@@ -23,5 +23,6 @@ public class CoinsPile {
             }
         }
         out.flush();
+        sc.close();
     }
 }
