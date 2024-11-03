@@ -1,7 +1,7 @@
 
 
 
-# <img src="images/CSES_logo.png" alt="CSES logo" height="45"> Problem Set Solutions 
+# <img src="images/CSES_logo.png" alt="CSES logo" height="25"> Problem Set Solutions in <img src="images/java_horizontal_logo.webp" alt="java logo" height="25">
 
 Welcome to the **CSES Problem Set Solutions** repository! 
 
