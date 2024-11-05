@@ -13,15 +13,16 @@ This project aims to provide efficient and well-documented Java solutions for th
 Here's a quick look at the progress so far:
 
 
-12/300 [██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6%
+16/300 [██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5%
+
 
 
 ### CSES Problem Set Progress
 
 | Section               | Progress         |
 |-----------------------|------------------|
-| Introductory Problems | `12/19` [███████████████████████░░░░░░░░░░░] 63% |
-| Sorting and Searching | `0/35`  [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%  |
+| Introductory Problems | `15/19` [███████████████████████████████░░] 79% |
+| Sorting and Searching | `1/35`  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3%  |
 | Dynamic Programming   | `0/19`  [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%  |
 | Graph Algorithms      | `0/36`  [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%  |
 | Range Queries         | `0/19`  [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%  |
