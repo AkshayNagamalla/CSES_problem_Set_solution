@@ -13,7 +13,7 @@ This project aims to provide efficient and well-documented Java solutions for th
 Here's a quick look at the progress so far:
 
 
-12/300 [██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6%
+13/300 [██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 6%
 
 
 ### CSES Problem Set Progress
