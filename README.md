@@ -13,7 +13,7 @@ This project aims to provide efficient and well-documented Java solutions for th
 Here's a quick look at the progress so far:
 
 
-16/300 [██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5%
+17/300 [██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5%
 
 
 
@@ -21,7 +21,7 @@ Here's a quick look at the progress so far:
 
 | Section               | Progress         |
 |-----------------------|------------------|
-| Introductory Problems | `15/19` [███████████████████████████████░░] 79% |
+| Introductory Problems | `16/19` [███████████████████████████████░░] 84% |
 | Sorting and Searching | `1/35`  [█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3%  |
 | Dynamic Programming   | `0/19`  [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%  |
 | Graph Algorithms      | `0/36`  [░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 0%  |
